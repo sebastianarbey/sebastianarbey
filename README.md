@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, Sebastian Arbey</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Sebastian Arbey</h1></summary>
   </ul>
 </div>
 
@@ -26,20 +26,14 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **HTML,CSS,Js, React, React Native, Nodejs, **
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 Desarrollador Web y Frond-End**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📫 Feel free to reach me out **sebasmedellinrxn@gmail.com**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
-<!--Intro end-->
 
 
 
